@@ -35,3 +35,14 @@
 - Then extracted the captcha from it
 - Used selenium to find captcha fill box and filled the extracted captcha in it and submitted to bypass the Amazon Captcha Page. 
 
+### **Time taken for each 100 URLs :-**
+- 82 sec
+- 82 sec
+- 70 sec
+- 66 sec
+- 72 sec
+- 63 sec
+- 73 sec
+- 56 sec
+- 64 sec
+- 53 sec
